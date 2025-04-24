@@ -1,0 +1,14 @@
+p.pinky{
+    background-color: rgb(209, 143, 154);
+}
+p.pinky.bigger{
+    font-size: 50px;
+}
+#bluish{
+    color: rgb(43, 43, 222);
+    font-size: 50px;
+}
+#greenish{
+    background-color: rgb(76, 180, 76);
+    font-weight: bold;
+}
